@@ -1,4 +1,7 @@
 # PhpSerialization
+
+[![Build Status](https://travis-ci.org/superalsrk/PhpSerialization.svg?branch=master)](https://travis-ci.org/superalsrk/PhpSerialization)
+
 PHP object serialize/unserialize to Java Object, still in development
 
 

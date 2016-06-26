@@ -12,8 +12,8 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
- * ClassName: PdmiSerialization <br/>
- * Reason: SomeReason <br/>
+ * ClassName: PdmiSerialization
+ * Reason: SomeReason
  * Date: 2016-06-16 11:11
  *
  * @author SRK.Lyu (superalsrk@gmail.com)
@@ -38,14 +38,10 @@ public class PdmiSerialization {
     }
 
     public static void unserialize(String serializedString) throws IllegalStateException {
-
-
         StringTokenizer varTokens = new StringTokenizer(serializedString, "{};");
-
         while (varTokens.hasMoreTokens()) {
             System.out.println(varTokens.nextToken() + ";");
         }
-
     }
 
     public static JSONObject decodeObject() {

@@ -6,8 +6,8 @@
 package cn.stackbox.phpserialize;
 
 /**
- * ClassName: PhpSerializationException <br/>
- * Reason: SomeReason <br/>
+ * ClassName: PhpSerializationException
+ * Reason: SomeReason
  * Date: 2016-06-16 17:54
  *
  * @author SRK.Lyu (superalsrk@gmail.com)

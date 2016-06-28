@@ -7,7 +7,7 @@ import org.junit.Test;
 /**
  * Unit test for PhpDecoder
  */
-public class PhpDecoderTest extends TestCase {
+public class PhpDecoderTest {
 
     @Test
     public void testSerializer1() {
